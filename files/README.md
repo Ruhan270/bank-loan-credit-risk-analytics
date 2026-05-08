@@ -200,8 +200,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## 👤 Author
 
-**[Your Name]**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
-- Email: your.email@example.com
+S.Mahmmad Ruhan
+- Email: shaikruhan51@gmail.com
 
 *Open to data analyst / risk analyst roles in banking and financial services.*
